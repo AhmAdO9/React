@@ -1,0 +1,95 @@
+@media only screen and (max-width:1200px) {
+  #upr{
+    font-size: 11px;
+    background: grey;
+    position: relative;
+    right: 0;
+  }
+  #upr1{
+    font-size: 11px;
+    background: grey;
+  }
+
+button{
+  position: relative;
+  right: -1em;
+  top: -1em;
+}
+
+#navbarSupportedContent{
+  position: relative;
+    right: 2em;
+}
+
+#srch{
+  position: relative;
+  top: 0em;
+  right: -25px ;
+}
+#bar{
+  position: relative;
+    right: 0px;
+    top: 0px;
+}
+#upr2{
+  padding:5px;
+  top: -10px;
+  font-size: 14px;
+}
+#plain{
+  position: relative;
+  right: -19px;
+  width: 17em;
+}
+#myBox{
+  height: 162px;
+  width: 584px;
+}
+}
+
+  
+  #upr1{
+    position: relative;
+    right: -23px;
+    background: grey;
+    border: grey;
+}
+
+textarea{
+  resize: auto;
+}
+
+#upr{
+  position: relative;
+right: -13px;
+background: grey;
+border: grey;
+}
+
+#upr2{
+  padding: 7px;
+  background: grey;
+  position: relative;
+  right: -33px;
+  border: grey;
+}
+#flexSwitchCheckDefault{
+  position: relative;
+    top: 7px;
+    right: -8px;
+    padding: 9px;
+}
+#scrh{
+  right: -9px;
+}
+
+#m{
+  display: flex;
+  flex-wrap: wrap;
+}
+#chck{
+  display: flex;
+position: relative;
+    right: 38em;
+    margin: 0 -18px;
+}
