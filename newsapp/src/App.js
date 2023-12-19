@@ -12,7 +12,7 @@ const App=()=> {
 
     return (
       <div> 
-        <Router>
+        <Router basename='/React'>
           <Navbar />
           <LoadingBar
           color="#f11946"
