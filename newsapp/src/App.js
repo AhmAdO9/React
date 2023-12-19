@@ -12,7 +12,6 @@ const App=()=> {
 
     return (
       <div> 
-        hello
         <Router>
           <Navbar />
           <LoadingBar
